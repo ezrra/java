@@ -34,3 +34,25 @@ Mecanismo para crear tus objetos.
 - Herencia
 "super" => representa la super clase Persona, este facilita pasar los parametros necesarios, para la satisfacción de su constructor.
 
+- Colecciones de Objeto
+
+Colletion => Un conjunto de elementos agrupados sin tener en cuenta carateristicas como su orden
+o duplicidad. 
+
+List => Es un coleccion ordenada que puede contener duplicados. Para obtener sus elementos se usa un sistema de indices basado en ceros.
+
+Set => Es una coleccion desordenada que no puede contener elementos duplicados. Hace todas las acciones comunes de una coleccion.
+
+Map => Es un colección que asigna claves a los elementos que contiene. A diferencia de una lista que usa indices enteros, un mapa puede asignar Strings a cada elemento de información.
+
+Iterator => Es un mecanismo para poder obtener los elementos de una colección de forma secuencial. Le permite al programador usar el metodo "next()" para retornar el elemento actual.
+
+
+- Agrupar datos
+
+ArrayList => Lista basada en un array de tamaño variable, creada con base en la interfaz List.
+
+HasMap => Tabla hash basada en la implementación de Map. Cumple con todas las caracteristicas de Map y ademas 
+permite añadir elementos con claves y valores nulos.
+
+
