@@ -24,3 +24,13 @@ Declarar atributos y metodos como parte de clase en vez ser parte de las instanc
 - Declaración de Constantes
 
 Ejemplo => public static final float GRAVEDAD = 9.9;
+
+- Set y Get
+
+- Constructores
+
+Mecanismo para crear tus objetos.
+
+- Herencia
+"super" => representa la super clase Persona, este facilita pasar los parametros necesarios, para la satisfacción de su constructor.
+
