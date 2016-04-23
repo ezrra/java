@@ -1,0 +1,26 @@
+- Sistema de paquetes.
+
+* Se debe de crear consminusculas
+* Paquetes exclusivos del lenguaje pueden empezar con la palabra java o javax
+* Estructura sea unica. Ejemplo: com.ezrra.java
+
+
+- Tipos de datos
+
+boolean, byte, short, int, long, float, double, char
+
+- Operadores
+
+- Estructura de Decisión
+
+- Final
+
+No puede cambiar => clases, metodos, parametros, variables locales.
+
+- Static
+
+Declarar atributos y metodos como parte de clase en vez ser parte de las instancias.
+
+- Declaración de Constantes
+
+Ejemplo => public static final float GRAVEDAD = 9.9;
