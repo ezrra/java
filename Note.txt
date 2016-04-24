@@ -56,3 +56,20 @@ HasMap => Tabla hash basada en la implementación de Map. Cumple con todas las c
 permite añadir elementos con claves y valores nulos.
 
 
+- Clases genericas en Javao generics
+
+Son tipos que permiten crear implementaciones de clases, metodos e interfaces basadas en parametros.
+
+- Clases anidadas
+
+- Hilos
+
+- Sincronizar hilos con synchronized
+
+Sincronizarción es un mecanismo para evitar que dos o mas hilos generen fallos de ejecución o difuminen
+la lógica de la aplicación al acceder aun mismo recurso.
+
+- Anotaciones
+
+Es un metadato que no tiene efecto en la lógica del programa
+Inicia con el caracter '@'. Ejemplo @Override, @NonNull, @TargetApi, @Deprecated, etc
